@@ -91,12 +91,9 @@
         <li>
         <p><strong>OneSignal</strong></p>
         <p>OneSignal provides SDKs to mobile app developers and websites, and data and analytics services to other data partners and advertisers. These web and mobile SDKs permit us to send, manage, optimize and customize push notifications to our users. OneSignal may collect certain information from end users of the SDK’s functionality (collectively, “SDK Information”), which generally helps provide developers with functionality to target and personalize the notifications they send to end users. This data collected may include: End Users’ IP address, device push token, network information, language, time zone, product preferences, and privacy preferences.</p>
-                        <p>For more information on the privacy practices of OneSignal, please visit the OneSignal Privacy & Terms web page: <a href="https://onesignal.com/privacy_policy">https://onesignal.com/privacy_policy</a></p>
-                        
-                        
-                        
-    </li>
-                            </ul>
+                        <p>For more information on the privacy practices of OneSignal, please visit the OneSignal Privacy & Terms web page: <a href="https://onesignal.com/privacy_policy">https://onesignal.com/privacy_policy</a></p>                        
+        </li>
+</ul>
 
 
 <h2>Links To Other Sites</h2>
@@ -118,7 +115,6 @@
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-        <li>By email: team@statinnovations.com</li>
-          
-        </ul>
+<li>By email: team@statinnovations.com</li>
+</ul>
       
